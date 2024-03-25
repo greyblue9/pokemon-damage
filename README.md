@@ -1,5 +1,7 @@
 # Pokémon type damage calculation script
 
+NOTE: Type names and effectiveness extracted from https://github.com/pret/pokeemerald project source code
+
 ## Usage:
 
 Windows:
